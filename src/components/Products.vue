@@ -61,7 +61,6 @@ export default {
     data: function(){
         return {
             index: 0,
-            cart_count: 0,
             products: [
                 new Product("Nike Air Presto \n Off-White", "#d35400"),
                 new Product("Nike Air \n Jordan 1", "#f1c40f"),
